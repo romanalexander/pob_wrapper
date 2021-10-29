@@ -14,7 +14,7 @@ packages = [
 
 [tool.poetry.dependencies]
 python = "^3.7"
-pywin32 = "^228"
+pywin32 = "^302"
 
 [tool.poetry.dev-dependencies]
 rope = "^0.16.0"
